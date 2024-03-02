@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **malaikagohar2003@gmail.com**
 
-- 📄 Resume: <a href="Flutter Developer - Malaika Gohar.pdf" target="_blank">**malaikagohar.pdf**</a>
+- 📄 Checkout my resume: <a href="Flutter Developer - Malaika Gohar.pdf" target="_blank">**Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
