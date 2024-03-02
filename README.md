@@ -11,7 +11,7 @@
 - 💬 Ask me about **Flutter💙, Dart🎯, Firebase🔥**
 
 - 📫 How to reach me **malaikagohar2003@gmail.com**
-- [Some title here](Flutter Developer - Malaika Gohar.pdf)
+- <a href="Flutter Developer - Malaika Gohar.pdf"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
